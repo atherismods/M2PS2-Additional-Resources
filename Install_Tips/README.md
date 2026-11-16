@@ -87,7 +87,3 @@ If you encounter write errors or file transfer freezes when testing your M2PS2, 
 # Shell Cutting
 
 ## Coming soon
-
-![](shell_cut.png)
-
-## Coming soon
