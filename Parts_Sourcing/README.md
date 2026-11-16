@@ -41,9 +41,9 @@ You can file this down until flush. Alternatively, if you're using double-sided 
 - [Screw - M2 x 3mm](https://www.aliexpress.com/item/4000310413115.html?spm=a2g0o.order_list.order_list_main.30.523c18026HUpmF)
 
 <p align="center">
-  <img src="https://github.com/atherismods/M2PS2-Additional-Resources/blob/42e3aabbebb69e5ed99d5d168cda8044b6f07c87/Images/standoff_small_top.jpeg" width="300">
-  <img src="https://github.com/atherismods/M2PS2-Additional-Resources/blob/42e3aabbebb69e5ed99d5d168cda8044b6f07c87/Images/standoff_small_under.jpeg" width="300">
-  <img src="https://github.com/atherismods/M2PS2-Additional-Resources/blob/42e3aabbebb69e5ed99d5d168cda8044b6f07c87/Images/standoff_small.jpeg" width="300">
+  <img src="https://github.com/atherismods/M2PS2-Additional-Resources/blob/5deed20840670c9f95a49d4cbd57e0c85c1498f1/Parts_Sourcing/standoff_m2_top.png" width="300">
+  <img src="https://github.com/atherismods/M2PS2-Additional-Resources/blob/5deed20840670c9f95a49d4cbd57e0c85c1498f1/Parts_Sourcing/standoff_m2_under.png" width="300">
+  <img src="https://github.com/atherismods/M2PS2-Additional-Resources/blob/5deed20840670c9f95a49d4cbd57e0c85c1498f1/Parts_Sourcing/standoff_m2.png" width="300">
 </p>
 
 ### M2.5 Standoff
@@ -57,9 +57,9 @@ It is a perfectly usable alternative if you prefer the larger M2.5 standoff and 
 - [Screw - M2.5 3mm](https://www.aliexpress.com/item/1005004510637964.html?spm=a2g0o.order_list.order_list_main.64.523c18026HUpmF)
 
 <p align="center">
-  <img src="https://github.com/atherismods/M2PS2-Additional-Resources/blob/42e3aabbebb69e5ed99d5d168cda8044b6f07c87/Images/standoff_big_top.jpeg" width="300">
-  <img src="https://github.com/atherismods/M2PS2-Additional-Resources/blob/42e3aabbebb69e5ed99d5d168cda8044b6f07c87/Images/standoff_big_under.jpeg" width="300">
-  <img src="https://github.com/atherismods/M2PS2-Additional-Resources/blob/42e3aabbebb69e5ed99d5d168cda8044b6f07c87/Images/standoff_big.jpeg" width="300">
+  <img src="https://github.com/atherismods/M2PS2-Additional-Resources/blob/5deed20840670c9f95a49d4cbd57e0c85c1498f1/Parts_Sourcing/standoff_m25_top.png" width="300">
+  <img src="https://github.com/atherismods/M2PS2-Additional-Resources/blob/5deed20840670c9f95a49d4cbd57e0c85c1498f1/Parts_Sourcing/standoff_m25_under.png" width="300">
+  <img src="https://github.com/atherismods/M2PS2-Additional-Resources/blob/5deed20840670c9f95a49d4cbd57e0c85c1498f1/Parts_Sourcing/standoff_m25.png" width="300">
 </p>
 
 ## Molex Flex Connector
